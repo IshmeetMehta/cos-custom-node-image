@@ -1,11 +1,11 @@
 # ------------------------------------------------------------------------------
 # MANDATORY SETTINGS
 # ------------------------------------------------------------------------------
-project_id = "your-gcp-project-id" # !!! REPLACE THIS VALUE !!!
+project_id = "my-project-4-386519" # !!! REPLACE THIS VALUE !!!
 
 # GitHub repository details for the trigger
-github_owner     = "your-github-username"       # !!! REPLACE THIS VALUE !!!
-github_repo_name = "your-cos-builder-repo-name" # !!! REPLACE THIS VALUE !!!
+github_owner     = "ishmeetmehta"       # !!! REPLACE THIS VALUE !!!
+github_repo_name = "cos-custom-node-image" # !!! REPLACE THIS VALUE !!!
 source_image = "gke-1341-gke1829001-cos-125-19216-0-94-c-nvda" # !!! REPLACE THIS VALUE !!!
 
 # ------------------------------------------------------------------------------

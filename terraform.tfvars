@@ -12,6 +12,7 @@ source_image = "gke-1341-gke3899001-cos-125-19216-104-45-c-pre" # !!! REPLACE TH
 # ------------------------------------------------------------------------------
 # OPTIONAL SETTINGS (Defaults are in variables.tf)
 # ------------------------------------------------------------------------------
+#
  region = "us-central1"
  zone   = "us-central1-c"
 
